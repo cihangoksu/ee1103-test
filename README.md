@@ -1,2 +1,2 @@
 # ee1103-test
-ee 103 test repository
+ee 103 test repository for quiz 1
